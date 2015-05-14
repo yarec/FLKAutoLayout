@@ -16,7 +16,7 @@
 		73317EC51B04A80D007C32B0 /* FLKAutoLayoutPredicateList.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317EBB1B04A80D007C32B0 /* FLKAutoLayoutPredicateList.m */; };
 		73317EC61B04A80D007C32B0 /* NSLayoutConstraint+FLKAutoLayoutDebug.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EBC1B04A80D007C32B0 /* NSLayoutConstraint+FLKAutoLayoutDebug.h */; };
 		73317EC71B04A80D007C32B0 /* NSLayoutConstraint+FLKAutoLayoutDebug.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317EBD1B04A80D007C32B0 /* NSLayoutConstraint+FLKAutoLayoutDebug.m */; };
-		73317EC81B04A80D007C32B0 /* UIView+FLKAutoLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EBE1B04A80D007C32B0 /* UIView+FLKAutoLayout.h */; };
+		73317EC81B04A80D007C32B0 /* UIView+FLKAutoLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EBE1B04A80D007C32B0 /* UIView+FLKAutoLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317EC91B04A80D007C32B0 /* UIView+FLKAutoLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317EBF1B04A80D007C32B0 /* UIView+FLKAutoLayout.m */; };
 		73317ECA1B04A80D007C32B0 /* UIView+FLKAutoLayoutDebug.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EC01B04A80D007C32B0 /* UIView+FLKAutoLayoutDebug.h */; };
 		73317ECB1B04A80D007C32B0 /* UIView+FLKAutoLayoutDebug.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317EC11B04A80D007C32B0 /* UIView+FLKAutoLayoutDebug.m */; };
